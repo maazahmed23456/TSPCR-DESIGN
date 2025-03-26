@@ -1,7 +1,7 @@
 # TSPCR-DESIGN
 
 
-## Design of Low Power TSPC CMOS D Flip Flop using SVL method:
+## Design of TSPC CMOS D Flip Flop using SVL method for low power consumption:
 
 ## Introduction
 
@@ -23,7 +23,7 @@ The primary goal is to reduce power consumption, especially due to leakage curre
 
 ### Technology
 
-The project leverages CMOS technology, with a specific focus on mitigating leakage power to enhance energy efficiency and extend battery backup time.
+The project leverages 180nm gpdk CMOS technology, with a specific focus on mitigating leakage power to enhance energy efficiency and extend battery backup time.
 
 ## Performance Comparison
 
@@ -35,7 +35,7 @@ In this report, we conduct a performance comparison among different TSPC D Flip-
 
 ## Project Details
 
-- **Technology**: 180nm
+- **Technology**: 180nm 
 - **Tools**: Cadence Virtuoso for design and simulation ( C2S Program )
 
 
