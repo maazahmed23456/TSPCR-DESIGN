@@ -326,11 +326,6 @@ For a more detailed power analysis and in-depth insights, please refer to the pr
 <img width="400" alt="image" src="https://github.com/ManishPatla/LowPowerVLSI/assets/109287423/e7e8e55b-feee-40e8-bdcc-a17b04f35078">
 
 
-<img width=400" alt="image" src="https://github.com/ManishPatla/LowPowerVLSI/assets/109287423/d6312c21-fb28-460b-b8cb-d1cdc06e1c4e">
-
-
-
-<img width="418" alt="image" src="https://github.com/ManishPatla/LowPowerVLSI/assets/109287423/9b5a18ed-2d98-4a94-9b72-0171b3798277">
 
 -----
 
@@ -354,5 +349,23 @@ Leakage Current: The modified SVL method further optimizes power consumption by 
 The circuit design incorporates a reduced number of clocked transistors, leading to lower dynamic power consumption and minimal leakage current. A comparative analysis between the SVL and Altered SVL methods highlights key constraints and improvements in power dissipation at 1.8V. The simulation results clearly indicate that the CMOS DFF with the Altered SVL method outperforms the conventional SVL approach, making it a superior choice for low-power applications.
 
 This project underscores the significance of low-power CMOS DFF designs in modern VLSI applications. The SVL and Altered SVL techniques demonstrate promising advancements in power-efficient, high-performance circuits, paving the way for more energy-efficient semiconductor designs.
+
+## Contributors 
+
+- **Maaz Ahmed**
+- **Harika Banala**  
+
+## Acknowledgments
+
+- Dr.Kiran Kumar Gurrala , Assistant Professor , NIT AP
+- Dr.Puli Kishore Kumar , Assistant Professor , NIT AP
+- Chaitanya Krishna , PhD , NIT AP
+- Harika Banala , PhD , NIT AP
+
+## Contact Information
+
+- Shaik Maaz Ahmed
+- 4th year B.Tech ECE , NIT Andhra Pradesh
+- Mail ID: maazahmed23456@gmail.com
 
 
